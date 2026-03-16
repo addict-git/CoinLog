@@ -29,6 +29,10 @@ CoinLog is a lightweight browser extension that helps you quickly log, view and 
 - Delete & Export: Remove entries or export all data to CSV  
 - Cross-Browser: Works on Chrome, Edge, and Firefox (Manifest V3)
 
+<p align="left" style="padding: 25px">
+  <img src="extras/Feature_Preview.png" alt="COINLOG Preivew" />
+</p>
+
 ---
 
 ## Installation (Local Testing)
@@ -71,7 +75,7 @@ CoinLog is a lightweight browser extension that helps you quickly log, view and 
 
 ## Author
 
-Author:  [@AddictedToU](https://github.com/AddictedToU)  
+Author:  [@Addict-git](https://github.com/Addict-git)  
 Open to contributions and feedback.
 
 ---
